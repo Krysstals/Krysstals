@@ -1,2 +1,2 @@
-- Hi Krystal here, I'm learning NodeJS.
-- Working on [PurpleProject](https://github.com/Krysstals/Krysstals/) (in dev)
+- Hi Krystal here, I'm learning NodeJS and Python.
+- Working on some random projects.
